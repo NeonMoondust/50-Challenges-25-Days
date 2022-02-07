@@ -5,11 +5,10 @@
 <h4>To be executed:</h4>
 
 ```
-<p><i>multiplicationTable(5)</i></p>
+multiplicationTable(5)
 
 <p>returns...</p>
 
-<i>
 # Table of 5 #\n
 1 x 5 = 5\n
 2 x 5 = 10\n
@@ -21,6 +20,6 @@
 8 x 5 = 40\n
 9 x 5 = 45\n
 10 x 5 = 50\n
-</i>
+
 
 ```
