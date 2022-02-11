@@ -1,7 +1,6 @@
 const argv = process.argv.slice(2);
 
 function wildSquare(sides){
-    // let sides_aux = sides;
     let square = '';
     for(let i = 1; i <= sides; i++){
         for(let j = 1; j <= sides; j++){
